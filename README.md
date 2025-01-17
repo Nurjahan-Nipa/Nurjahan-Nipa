@@ -1,4 +1,4 @@
-## <h2 align="left"> Hi, I'm Nurjahan Nipa! 👋 and I'm a research enthusiastic from Bangladesh.</h2>
+## <h2 align="left"> Hi, I'm Nurjahan Nipa! 👋 and I'm a research enthusiastic.</h2>
 ###
 
 Welcome to my GitHub profile! I am a passionate researcher, educator and data enthusiast currently pursuing advanced studies in computer science. I thrive at the intersection of technology and problem-solving, with a keen interest in big data, machine learning, and data science. 
