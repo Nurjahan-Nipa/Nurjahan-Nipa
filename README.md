@@ -11,9 +11,9 @@ Prior to this current role, I served as a Lecturer in the same department at BDU
 
 ## 🔍 About Me
 
-- **🎓 Education:** Graduate student in Computer Science at Louisiana State University (LSU)
-- **📚 Interests:** Big data, machine learning, distributed systems, server management, and algorithm optimization
-- **👩‍💻 Expertise:** Proficient in Python, Java, C/C++, SQL, and familiar with tools like Spark, Hadoop, Docker, and JupyterHub
+- **🎓 Education:** Graduate student (PhD) in Computer Science at Louisiana State University (LSU)
+- **📚 Interests:** Big data, machine learning, data science and LLM
+- **👩‍💻 Expertise:** Proficient in Python, Java, C/C++, SQL, and familiar with tools like Spark, Hadoop, and JupyterHub
 - **🌐 Projects:** Enthusiastic about developing scalable solutions and exploring innovative technologies
 - **📬 Contact:** Reach me at [nurja1@lsu.edu](mailto:nurja1@lsu.edu)
 
