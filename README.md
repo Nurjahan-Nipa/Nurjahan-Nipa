@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I am a passionate researcher, educator and data en
 ## 🔍 About Me
 
 - **🎓 Education:** Graduate student (PhD) in Computer Science at Louisiana State University (LSU)
-- **📚 Interests:** Big data, machine learning, data science and LLM
-- **👩‍💻 Expertise:** Proficient in Python, Java, C/C++, SQL, and familiar with tools like Spark, Hadoop, and JupyterHub
+- **📚 Interests:** Cyber Security, data science and LLM
 - **🌐 Projects:** Enthusiastic about developing scalable solutions and exploring innovative technologies
 - **📬 Contact:** Reach me at [nurja1@lsu.edu](mailto:nurja1@lsu.edu)
 
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I am a passionate researcher, educator and data en
    - **Technologies:** PySpark, SQLite, HDFS
    - **Goal:** Compare sentiment trends with real-world events during the COVID-19 pandemic.
 
-### 2. [JupyterHub Server Setup](https://github.com/your-repo-link)
+### 2. [JupyterHub Server Setup]
    - **Description:** Configured a multi-user JupyterHub environment for data analysis on a shared server.
    - **Technologies:**  WSL, IIS, Python
    - **Goal:** Facilitate collaboration by providing isolated environments for users.
@@ -46,6 +45,7 @@ Welcome to my GitHub profile! I am a passionate researcher, educator and data en
 ---
 
 ## 🌱 What I'm Learning
+- Cyber Security Research
 - Advanced machine learning techniques
 - Distributed systems and scalable architecture
 - Optimizing server performance for multi-user environments
